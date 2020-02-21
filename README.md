@@ -42,6 +42,7 @@ Hardware Needed:
 - XT60 Female connector (make sure you solder the wires on before glueing this into the mouting hole with CA adhesive)
 - 4K7 Pullup Resistor
 - 8 Pin IC Socket DIP 2.54mm Wide (This holds the OLED display and the BME-280
+- 2S Battery for power (I have a big 4000mah pack that I can velco to the bottom)
 
 The wiring is as follows:
 <img src="https://github.com/AlCormack/RCPilotWeather/blob/master/images/RCWeather.png" width="800"><br />
