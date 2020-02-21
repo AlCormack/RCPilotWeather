@@ -1,12 +1,12 @@
 # RCPilotWeather
 A project to support RC Pilots by giving them a simple weather station that provides:
-* Air Temperature
-* Humidity
+* Air Temperature (T)
+* Humidity(H))
 * Air Pressure (P)
 * Wind Speed (WS)
 * Maximum Wind Speed (MWS)
 * Altitude (A)
-* Density Atlitude
+* Density Atlitude (Dens Alt)
 
 <img src="https://github.com/AlCormack/RCPilotWeather/blob/master/images/RCWeatherDevice.jpeg" width="800"><br />
 
