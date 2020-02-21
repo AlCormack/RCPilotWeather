@@ -27,7 +27,7 @@ This would only have been possible to do this through the excellent efforts of:
 AeroCalc routines in Python, Copyright (c) 2008, Kevin Horton
 http://pydoc.net/AeroCalc/0.11/aerocalc.std_atm
 Code snippets and hardware ideas for the weather components are based on the work here http://cactus.io/projects/weather/arduino-weather-station-bme280-sensor
-other useful website is https://wahiduddin.net/calc/calc_da_rh.htm This will give some backgournd on the calculations
+other useful website is https://wahiduddin.net/calc/calc_da_rh.htm This will give some background on the calculations
 
 
 Hardware Needed:
