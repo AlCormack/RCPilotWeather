@@ -37,9 +37,11 @@
     - APM2.5 UBlox NEO-M8N GPS Module (or similar.. neeeds to be at 9600 baud setting)
     - 4 * M3*6
     - 4 * M3 brass knurled nuts (5mm deep) - the holes in the 3D model are a little tight as I had to use a dremel to expand them about 0.5mm. 
-    - XT60 Female connector
+    - XT60 Female connector (make sure you solder the wires on before glueing this into the mouting hole with CA adhesive)
+    - 4K7 Pullup Resistor
+    - 8 Pin IC Socket DIP 2.54mm Wide (This holds the OLED display and the BME-280
     
-    I designed a 3D printed base to work with a Anemometer model that is available at:  https://www.thingiverse.com/thing:2559929
+    I designed a 3D printed base to work with a Anemometer model that is available at:  https://www.thingiverse.com/thing:2559929 (this is CA glued onto the base)
     Download the Base and Lid from my Thingverse at:https://www.thingiverse.com/thing:4171499
 
     A lot of libraries are used here:
@@ -383,4 +385,3 @@ void loop()
 
   smartdelay(1000);
 }
-

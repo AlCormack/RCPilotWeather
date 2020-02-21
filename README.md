@@ -8,6 +8,8 @@ A project to support RC Pilots by giving them a simple weather station that prov
 * Altitude (A)
 * Density Atlitude
 
+<img src="https://github.com/AlCormack/RCPilotWeather/blob/master/images/RCWeatherDevice.jpeg" width="800"><br />
+
 The density altitude was the main feature I wanted as it gives you the altitude relative to standard atmospheric conditions. 
 So for us speed heli pilots we have another excuse as to why we were slow that day!
 
@@ -36,7 +38,9 @@ Hardware Needed:
 - APM2.5 UBlox NEO-M8N GPS Module (or similar.. neeeds to be at 9600 baud setting)
 - 4 * M3*6
 - 4 * M3 brass knurled nuts (5mm deep) - the holes in the 3D model are a little tight as I had to use a dremel to expand them about 0.5mm. 
-- XT60 Female connector
+- XT60 Female connector (make sure you solder the wires on before glueing this into the mouting hole with CA adhesive)
+- 4K7 Pullup Resistor
+- 8 Pin IC Socket DIP 2.54mm Wide (This holds the OLED display and the BME-280
 
 I designed a 3D printed base to work with a Anemometer model that is available at:  https://www.thingiverse.com/thing:2559929
 Download the Base and Lid from my Thingverse at:https://www.thingiverse.com/thing:4171499
