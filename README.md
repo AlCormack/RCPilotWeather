@@ -12,6 +12,7 @@ A project to support RC Pilots by giving them a simple weather station that prov
 
 The density altitude was the main feature I wanted as it gives you the altitude relative to standard atmospheric conditions. 
 So for us speed heli pilots we have another excuse as to why we were slow that day!
+<img src="https://github.com/AlCormack/RCPilotWeather/blob/master/images/Display.jpeg" width="800"><br />
 
 * Ver 1.0: Initial version
 
@@ -42,6 +43,12 @@ Hardware Needed:
 - 4K7 Pullup Resistor
 - 8 Pin IC Socket DIP 2.54mm Wide (This holds the OLED display and the BME-280
 
+The wiring is as follows:
+<img src="https://github.com/AlCormack/RCPilotWeather/blob/master/images/RCWeather.png" width="800"><br />
+
+The layout is as follows (note your GPS unit choice might require different positioning):
+<img src="https://github.com/AlCormack/RCPilotWeather/blob/master/images/Inside.jpeg" width="800"><br />
+
 I designed a 3D printed base to work with a Anemometer model that is available at:  https://www.thingiverse.com/thing:2559929
-Download the Base and Lid from my Thingverse at:https://www.thingiverse.com/thing:4171499
+Download the base, lid and cube to support the end of the OLED display (this can be attached by double sided foam tape) from my Thingverse at:https://www.thingiverse.com/thing:4171499
 
