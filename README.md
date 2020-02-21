@@ -19,7 +19,9 @@ So for us speed heli pilots we have another excuse as to why we were slow that d
 I am using a GPS to get as close as possible to the real altitude (I know its not perfect for elevation but IMHO its good enough for hobby grade). 
 There is then a lot of maths that uses the info from the weather station sensors with the GPS altitude to calculate the density altitude.
 
-This is for personnal use only with the usual disclaimer of: Use this at your own risk. I had most of the parts lying around to build. So had to buy very little. The arduino, display, sensors and bearing (unless you are a skater) you may have to buy. Parts cost me about $30 for this build. 
+This is for personnal use only... with the usual disclaimer of: Use this at your own risk. 
+
+I had most of the parts lying around to build. So had to buy very little. The arduino, display, sensors and bearing (unless you are a skater) you may have to buy. Parts cost me about $30 for this build. 
 
 This would only have been possible to do this through the excellent efforts of:
 AeroCalc routines in Python, Copyright (c) 2008, Kevin Horton
