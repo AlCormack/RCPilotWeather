@@ -12,7 +12,7 @@ A project to support RC Pilots by giving them a simple weather station that prov
 
 The density altitude was the main feature I wanted as it gives you the altitude relative to standard atmospheric conditions. 
 So for us speed heli pilots we have another excuse as to why we were slow that day!
-<img src="https://github.com/AlCormack/RCPilotWeather/blob/master/images/Display.jpeg" width="800"><br />
+<img src="https://github.com/AlCormack/RCPilotWeather/blob/master/images/Display.jpeg" width="500"><br />
 
 * Ver 1.0: Initial version
 
